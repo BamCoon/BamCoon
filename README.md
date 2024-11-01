@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi there 👋 
+I'm a VR simulator developer using Unity and C#.   
+Also I'm currently learning C++, Unreal, Sql, etc...
+
+I love to make games (Any Kind! 3D, 2D, Mobile, PC ! ) and exercising.
+I hope people who play my games be happy.
+
+
+## Skills
+<img alt="Unity" src ="https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=white"/> <img alt="Unreal" src ="https://img.shields.io/badge/Unreal-999999.svg?&style=for-the-badge&logo=unrealengine&logoColor=black"/> 
+<img alt="sharp" src ="https://img.shields.io/badge/csharp-7C4EC4.svg?&style=for-the-badge&logo=sharp&logoColor=white"/> <img alt="c++" src ="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/> 
+
+
 
 <!--
 **BamCoon/BamCoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
